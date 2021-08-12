@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1628753390249' stop='1628753396932'>
+    <name>Name of the group</name>
+    <title>Name of the group</title>
+    <test-cases>
+        <test-case start='1628753390249' status='passed' stop='1628753396930'>
+            <name>FlipKart Mouse Movement </name>
+            <title>FlipKart Mouse Movement </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

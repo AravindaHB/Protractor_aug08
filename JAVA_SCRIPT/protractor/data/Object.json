@@ -1,0 +1,17 @@
+{
+    "url" : "http://juliemr.github.io/protractor-demo",
+
+    "locators" : {
+        "homepage" : {
+            "firstNum"  : "first",
+            "secondNum"  : "second",
+            "GO"  : "gobutton"
+        }
+    },
+    "operations" : {
+        "add" : "ADDITION",
+        "sub" : "SUBTRACTION",
+        "mul" : "MULTIPLICATION",
+        "div" : "DIVISION"
+    }
+}

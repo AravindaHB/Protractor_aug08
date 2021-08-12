@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1628763469872' stop='1628763517629'>
+    <name>Calculation of two numbers using OR </name>
+    <title>Calculation of two numbers using OR </title>
+    <test-cases>
+        <test-case start='1628763469872' status='passed' stop='1628763480077'>
+            <name>ADD</name>
+            <title>ADD</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1628763480077' status='passed' stop='1628763505695'>
+            <name>ADD</name>
+            <title>ADD</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1628763505695' status='passed' stop='1628763511668'>
+            <name>ADD</name>
+            <title>ADD</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1628763511668' status='passed' stop='1628763517626'>
+            <name>ADD</name>
+            <title>ADD</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

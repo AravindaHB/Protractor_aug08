@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1628761754161' stop='1628761764332'>
+    <name>Calculation of two numbers using OR </name>
+    <title>Calculation of two numbers using OR </title>
+    <test-cases>
+        <test-case start='1628761754161' status='passed' stop='1628761764331'>
+            <name>ADD</name>
+            <title>ADD</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,33 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1628751606206' stop='1628751641754'>
+    <name>Name of the group</name>
+    <title>Name of the group</title>
+    <test-cases>
+        <test-case start='1628751606207' status='passed' stop='1628751630964'>
+            <name>FlipKart Mouse Movement </name>
+            <title>FlipKart Mouse Movement </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1628751630964' status='failed' stop='1628751641744'>
+            <name>Drag and drop on Protractor</name>
+            <title>Drag and drop on Protractor</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>TypeError: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received null</message>
+                <stack-trace>TypeError [ERR_INVALID_ARG_TYPE] [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received null
+                    at Function.from (buffer.js:333:9)
+                    at new Buffer (buffer.js:289:17)
+                    at writeScreenshot (D:\synechron_09_aug\JAVA_SCRIPT\protractor\node_modules\protractor-jasmine2-screenshot-reporter\index.js:212:18)
+                    at D:\synechron_09_aug\JAVA_SCRIPT\protractor\node_modules\protractor-jasmine2-screenshot-reporter\index.js:626:13
+                    at D:\synechron_09_aug\JAVA_SCRIPT\protractor\node_modules\mkdirp\index.js:49:26
+                    at FSReqCallback.oncomplete (fs.js:184:5)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

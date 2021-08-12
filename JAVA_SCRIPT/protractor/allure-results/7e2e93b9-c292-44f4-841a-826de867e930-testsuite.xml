@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1628742752912' stop='1628742790665'>
+    <name>Calculation of two numbers</name>
+    <title>Calculation of two numbers</title>
+    <test-cases>
+        <test-case start='1628742752913' status='passed' stop='1628742758816'>
+            <name>ADD</name>
+            <title>ADD</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1628742758816' status='passed' stop='1628742781808'>
+            <name>SUB</name>
+            <title>SUB</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1628742781808' status='passed' stop='1628742786967'>
+            <name>DIV</name>
+            <title>DIV</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1628742786967' status='passed' stop='1628742790662'>
+            <name>MUL</name>
+            <title>MUL</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
